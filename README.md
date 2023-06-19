@@ -7,5 +7,5 @@ Overview of the code:
 - Query for host candidates in a 30'' region;
 - Filter the result with user-defined cuts (depending on the transient);
 - Measure the DLR for all candidates;
-- Rank host candidates and identify the best host (minimum DLR)
-- Produce cutouts with all the ranked candidates
+- Rank host candidates and identify the best host (minimum DLR);
+- Produce cutouts with all the ranked candidates.
