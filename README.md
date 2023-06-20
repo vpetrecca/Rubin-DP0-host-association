@@ -1,7 +1,9 @@
 # Rubin LSST DP0 host association
 
-This repository contains a notebook for transients to host galaxy association using the Directional Light Radius (DLR; Gupta et al. 2016).
-The code was tested on the Rubin Science Platform (RSP) using DP0.2 data
+This repository contains a notebook for transients to host-galaxy association using the Directional Light Radius (DLR; Gupta et al. 2016).
+
+The code was tested on the Rubin Science Platform (RSP) using DP0.2 data. 
+An example .csv file with transient coordinates to run the code is also provided. 
 
 Overview of the code:
 - Query for host candidates in a 30'' region;
@@ -9,3 +11,5 @@ Overview of the code:
 - Measure the DLR for all candidates;
 - Rank host candidates and identify the best host (minimum DLR);
 - Produce cutouts with all the ranked candidates.
+
+C
