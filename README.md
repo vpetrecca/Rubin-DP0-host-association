@@ -12,4 +12,4 @@ Overview of the code:
 - Rank host candidates and identify the best host (minimum DLR);
 - Produce cutouts with all the ranked candidates.
 
-C
+Contact the author for any issues: vincenzo.petrecca@inaf.it
