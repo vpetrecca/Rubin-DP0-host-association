@@ -1,6 +1,6 @@
 # Rubin LSST DP0 host association
 
-This repository contains a notebook for transients to host-galaxy association using the Directional Light Radius (DLR; Gupta et al. 2016).
+This repository contains a jupyter notebook with a Python for transients to host-galaxy association using the Directional Light Radius (DLR; Gupta et al. 2016).
 
 The code was tested on the Rubin Science Platform (RSP) using DP0.2 data.
 
