@@ -2,7 +2,7 @@
 
 This repository contains a jupyter notebook with a Python for transients to host-galaxy association using the Directional Light Radius (DLR; Gupta et al. 2016).
 
-The code was tested on the Rubin Science Platform (RSP) using DP0.2 data, see Petrecca et al. 2024 (add link).
+The code was tested on the Rubin Science Platform (RSP) using DP0.2 data, see Petrecca et al. 2024 (https://arxiv.org/abs/2402.17612).
 
 If you have access to the RSP (e.g., you are a Rubin DP0 Delegate), you can clone this repository into your own directory and run the tutorial notebook. 
 
